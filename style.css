@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    width: 16%;
+    background-color: rgb(79, 79, 114);
+    height: 100vh;
+    position: fixed;
+    padding: 20px;
+    
+   
+}
+.nav h1{
+    color: white;
+}
+ul li{
+    margin-top: 22px;
+    /* margin-left: 20px; */
+   
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    
+
+}
+.log{
+    background-color: rgb(16, 97, 178);
+    margin-top: 300px;
+    text-align: center;
+    
+   
+}
+input{
+    margin-top: 20px;
+    width: 500px;
+    height: 35px;
+    background-color: rgb(229, 238, 241);
+}
+.sub{
+    width: 210px;
+    border: none;
+   border-radius: 2px;
+    background-color: lightblue;
+}
+
+iconify-icon{
+    margin-top: 22px;
+    margin-right: 12px;
+    font-size: 25px;
+}
+.form{
+    padding: 20px;
+    margin-top: 200px;
+    text-align: center;
+    background-color: red;
+}
+input{
+    width: 400px;
+    padding: 20px;
+}
+textarea{
+    padding: 20px;
+    width: 450px;
+}
+.sub{
+    width: 200px;
+    background-color: black;
+    color: white;
+}
+.admin{
+  padding-top: 80px;
+    text-align: center;
+    background-color: #0081B4;
+    height: 700px;
+}
+.admin input{
+    margin-top: 30px;
+    width: 300px;
+    height: 16px;
+}
+.adsub{
+    background-color: black;
+    color: white;
+    width:30px;
+}
+.user{
+    margin-left: 20%;
+    font-size: 40px;
+    /* padding: 30px; */
+  
+}
+table{
+    /* background-color: #0081B4; */
+    border-collapse: collapse;
+    
+   
+}
+th{
+    background-color: #0081B4;
+
+}
